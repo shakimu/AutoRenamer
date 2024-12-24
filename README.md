@@ -1,2 +1,11 @@
-# AutoRenamer
-This bat file will auto rename and back up any files that are updated.
+## AutoRenamer
+ファイルを定期的にチェックし、変更があれば名前を自動的に変更します。
+
+#使い方
+ご自身の環境用に置き換えてください。
+５行目　～　６行目：フォルダパスと変更前のファイル名
+２１行目～２２行目：変更後のファイル名
+
+#用途例
+Europa Universalis IV EU4 や FC24 のオートセーブデータのバックアップが可能です。
+
